@@ -1,7 +1,7 @@
 # text-to-speech-turkish-assistant
 
 # Requirements:
-    1. Windows OS
+1. Windows OS
 
 Install required packages... 
   
